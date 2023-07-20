@@ -4,7 +4,7 @@
 
 - Microsoft EntityFreameworkCore 6.0
 - Microsoft EntityFrameworkCore Design 6.0
-- Iniciar a Migration depois utilizar o Update-Database -Context SistemaTarefasDBContext para a cria��o do banco de dados.
+- Iniciar a Migration depois utilizar o Update-Database -Context SistemaTarefasDBContext para a criação do banco de dados.
 - CORS habilitado para requisição
 
   ```
